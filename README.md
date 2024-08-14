@@ -2,9 +2,9 @@
 - 👀 I’m interested in Python, AI and stuff
 - 💞️ I’m looking to collaborate cool projects currently I am building a cool AI assistant like J.A.R.V.I.S
 - 📫 How to reach me ... E-mail = therealnomith@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: can't remember right now
-- And yes have a good day or night, if you are reading this at night....
+  
   
 
 <!---
