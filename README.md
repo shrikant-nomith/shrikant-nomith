@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shrikant-nomith
 - 👀 I’m interested in Python, AI and stuff
-- 🌱 I’m currently learning C++ and game dev
 - 💞️ I’m looking to collaborate cool projects currently I am building a cool AI assistant like J.A.R.V.I.S
 - 📫 How to reach me ... E-mail = therealnomith@gmail.com
 - 😄 Pronouns: ...
